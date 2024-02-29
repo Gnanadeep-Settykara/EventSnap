@@ -82,9 +82,13 @@ DataLoader: Enhances data fetching efficiency for improved performance.
 
 ## Features ✨
 Event Discovery: Explore a variety of events suitable for different interests.
+
 User Authentication: Create an account or log in to book events and manage your bookings.
+
 GraphQL API: Utilizes GraphQL for efficient and flexible data querying.
+
 Concurrent Execution: Use Concurrently to run both backend and frontend concurrently during development.
+
 Visualization Components: Includes components like BookingsChart for visualizing booking data.
 
 ## Customization 🎨
