@@ -15,7 +15,7 @@ Welcome to EventSnap! 🎉 EventSnap is an event booking application designed us
 ## Description
 EventSnap is a modern event booking app that simplifies the process of discovering and booking events. The backend is built with Node.js, Express, and GraphQL, while the frontend is developed with React. The application includes features such as event discovery, user authentication, and a GraphQL API for efficient data querying.
 
-## Getting Started 🚀
+## Getting Started
 To start your EventSnap adventure:
 
 1. Clone the EventSnap repository.
@@ -45,7 +45,7 @@ To start your EventSnap adventure:
    ```
 Access the application at http://localhost:3000 and explore the world of events!
 
-## Preview 📸
+## Preview
 Login Page Preview:
 
 ![Login Preview](Login.png)
@@ -70,7 +70,7 @@ Bookings Chart:
 
 ![bookingsChart Preview](bookingsChart.png)
 
-## Technologies Used 🛠️
+## Technologies Used
 
 MongoDB Atlas
 
@@ -82,10 +82,10 @@ React
 
 Node.js
 
-## External Dependencies 🔗
+## External Dependencies
 DataLoader: Enhances data fetching efficiency for improved performance.
 
-## Features ✨
+## Features
 Event Discovery: Explore a variety of events suitable for different interests.
 
 User Authentication: Create an account or log in to book events and manage your bookings.
@@ -96,7 +96,7 @@ Concurrent Execution: Use Concurrently to run both backend and frontend concurre
 
 Visualization Components: Includes components like BookingsChart for visualizing booking data.
 
-## Customization 🎨
+## Customization
 Feel free to enhance the application by adding new features, improving the UI, or extending functionalities. The modular structure allows for easy customization and expansion.
 
 ## Contributing
