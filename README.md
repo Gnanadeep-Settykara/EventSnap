@@ -71,11 +71,16 @@ Bookings Chart:
 ![bookingsChart Preview](bookingsChart.png)
 
 ## Technologies Used 🛠️
-Node.js
-Express
-GraphQL
-React
+
 MongoDB Atlas
+
+Express
+
+GraphQL
+
+React
+
+Node.js
 
 ## External Dependencies 🔗
 DataLoader: Enhances data fetching efficiency for improved performance.
